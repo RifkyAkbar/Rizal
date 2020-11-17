@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alfiansx/alfbot"
+    "url": "git+https://github.com/RifkyAkbar/Rizal"
   },
   "keywords": [
     "k"
@@ -42,7 +42,7 @@
   "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alfiansx/alfbot/issues"
+    "url": "https://github.com/RifkyAkbar/Rizal/issues"
   },
-  "homepage": "https://github.com/alfiansx/alfbot#readme"
+  "homepage": "https://github.com/RifkyAkbar/Rizal#readme"
 }
